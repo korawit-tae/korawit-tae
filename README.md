@@ -29,4 +29,4 @@
 
 ---
 
-📫 **How to reach me:** [ใส่อีเมลจริงตรงนี้]@gmail.com
+📫 **How to reach me:** taaytay99924@gmail.com
