@@ -21,10 +21,9 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tae-devTae&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae-devTae&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=korawit-tae&theme=tokyonight&margin-w=15&margin-h=15" alt="Tae's GitHub Trophies" />
 </p>
 
 ---
