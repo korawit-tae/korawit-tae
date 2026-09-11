@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Korawit Chuluean (Tae) 👋</h1>
+<h1 align="center">Hi there, I'm Korawit Chuluean (Tae) </h1>
 <p align="center">CS Student @ BRU | Aspiring Machine Learning Engineer</p>
 
 ---
