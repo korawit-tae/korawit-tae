@@ -21,11 +21,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=korawit-tae&theme=tokyonight&margin-w=15&margin-h=15" alt="Tae's GitHub Trophies" />
-</p>
-
+### 📈 Profile Views & Activity
+![Visitor Count](https://komarev.com/ghpvc/?username=korawit-tae&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)
 ---
 
 📫 **How to reach me:** taaytay99924@gmail.com
