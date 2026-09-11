@@ -21,8 +21,17 @@
 
 ---
 
-### 📈 Profile Views & Activity
-![Visitor Count](https://komarev.com/ghpvc/?username=korawit-tae&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)
+### 📚 Learning Repositories
+| Category | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| 📐 **Math for ML** | [ML-Math-Foundations](https://github.com/korawit-tae/ML-Math-Foundations) | Code & notes for Linear Algebra and Calculus | `Python` `NumPy` |
+
 ---
 
-📫 **How to reach me:** taaytay99924@gmail.com
+### 📈 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=korawit-tae&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taaytay99924@gmail.com)
