@@ -21,10 +21,12 @@
 
 ---
 
-### 📚 Learning Repositories
+### 📚 Learning Repositories & Projects
 | Category | Repository | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| 📐 **Math for ML** | [ML-Math-Foundations](https://github.com/korawit-tae/ML-Math-Foundations) | Code & notes for Linear Algebra and Calculus | `Python` `NumPy` |
+| 📐 **Math for ML** | [ML-Math-Foundations](https://github.com/korawit-tae/ML-Math-Foundations) | Code & notes for Linear Algebra, Calculus, and Statistics | `Python` `NumPy` |
+| 🌐 **Web Project** | [korawit-bio](https://github.com/korawit-tae/korawit-bio) | Dark Fantasy Personal Bio Link Website with audio player | `HTML5` `CSS3` `JS` |
+| 💻 **Core CS** | [DSA-Practice](https://github.com/korawit-tae/DSA-Practice) | Data Structures & Algorithms practice from university coursework | `C++` `Python` |
 
 ---
 
