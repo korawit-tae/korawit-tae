@@ -27,10 +27,6 @@
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=korawit-tae&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=korawit-tae&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ### 📚 Learning Repositories & Projects
@@ -42,10 +38,7 @@
 
 ---
 
-### 📈 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=korawit-tae&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)
-
----
-
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taaytay99924@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=korawit-tae&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)
